@@ -3,7 +3,7 @@
     "description": "A Laravel Package to Log Requests",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/hesamzakerirad/laravel-flashlight",
+    "homepage": "https://github.com/radestsam/laravel-flashlight",
     "keywords": [
         "laravel",
         "php",
